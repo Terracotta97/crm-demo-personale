@@ -1,0 +1,7 @@
+# Demo indipendente: nessuna connessione ai database o bucket dell'ex azienda.
+name = "crm-demo-personale"
+compatibility_date = "2026-11-10"
+workers_dev = true
+
+[assets]
+directory = "./public"
